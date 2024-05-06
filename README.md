@@ -1,4 +1,4 @@
-# Ex.05 Design a Website for Server Side Processing
+![Screenshot 2024-04-07 122602](https://github.com/ibrahimfedahs/MathServer/assets/150319493/9bb7bb23-02eb-492f-89c6-8a627c196343)# Ex.05 Design a Website for Server Side Processing
 ## Date:06.04.24
 
 ## AIM:
@@ -129,12 +129,13 @@ urlpatterns = [
 
 
 ## SERVER SIDE PROCESSING:
-![Screenshot 2024-04-07 122602](https://github.com/ibrahimfedahs/MathServer/assets/150319493/d28d3d55-cb99-4b82-895f-753f0a133605)
+![Screenshot 2024-04-07 122602](https://github.com/ibrahimfedahs/MathServer/assets/150319493/cbc7e7f5-2de0-4585-a6ec-c89f37ac3bcf)
 
 
 
 
 ## HOMEPAGE:
+
 
 
 ## RESULT:
