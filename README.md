@@ -129,7 +129,7 @@ urlpatterns = [
 ```
 
 ## SERVER SIDE PROCESSING:
-![Screenshot 2024-04-07 122602](https://github.com/ibrahimfedahs/MathServer/assets/150319493/cbc7e7f5-2de0-4585-a6ec-c89f37ac3bcf)
+
 
 
 
