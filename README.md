@@ -130,6 +130,7 @@ urlpatterns = [
 
 ## SERVER SIDE PROCESSING:
 
+![image](https://github.com/ibrahimfedahs/MathServer/assets/150319493/65db7c76-22a2-4f38-981d-39b1e6160d4c)
 
 
 
